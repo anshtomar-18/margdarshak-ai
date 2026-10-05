@@ -1,0 +1,24 @@
+{
+  "name": "margdarshak-ai",
+  "version": "1.0.0",
+  "description": "AI-Driven Career Guidance, Family Financial Fit, Employability & Govt Exam Intelligence Platform (SIH Edition)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "sih",
+    "smart-india-hackathon",
+    "ai-career-guidance",
+    "employability",
+    "upsc-roadmap",
+    "ats-resume",
+    "telemetry"
+  ],
+  "author": "Ansh Tomar <anshtomar200418@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
