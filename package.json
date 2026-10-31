@@ -17,7 +17,9 @@
     "telemetry"
   ],
   "author": "Ansh Tomar <anshtomar200418@gmail.com>",
-  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4"
+  },
   "devDependencies": {
     "vite": "^6.0.0"
   }
