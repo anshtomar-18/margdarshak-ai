@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #0F5C5C;
+  --color-primary-hover: #0B4747;
+  --color-primary-tint: #E3F1F0;
+  --color-accent: #F29F05;
+  --color-accent-hover: #D68A00;
+  --color-accent-tint: #FFF3D6;
+  --color-bg: #FBF8F3;
+  --color-surface: #FFFFFF;
+  --color-border: #E7E1D6;
+  --color-text-primary: #1B2430;
+  --color-text-secondary: #4A5565;
+}
+
+.dark {
+  --color-primary: #248F8F;
+  --color-primary-hover: #1B7272;
+  --color-primary-tint: #132F2F;
+  --color-accent: #F5B031;
+  --color-accent-hover: #F29F05;
+  --color-accent-tint: #33260D;
+  --color-bg: #11171D;
+  --color-surface: #1B2430;
+  --color-border: #2C3847;
+  --color-text-primary: #F5F7FA;
+  --color-text-secondary: #B0BAC9;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: var(--color-bg);
+  color: var(--color-text-primary);
+}
+
+*:focus-visible {
+  outline: 3px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

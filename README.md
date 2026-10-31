@@ -55,6 +55,26 @@
 
 ---
 
+## 📱 Mobile App Downloads (Android & iOS)
+
+Margdarshak is available across web, Android, and iOS devices:
+
+### 🤖 Android (APK)
+- **Direct APK**: Download [`margdarshak-apk-installer/margdarshak.apk`](./margdarshak-apk-installer/margdarshak.apk) (or [`margdarshak-apk-installer.zip`](./margdarshak-apk-installer.zip)).
+- **Installation**: Tap the APK on your device and select *"Install anyway"* if prompted by Google Play Protect.
+- Full guide: [`margdarshak-apk-installer/INSTALL_ON_ANDROID.txt`](./margdarshak-apk-installer/INSTALL_ON_ANDROID.txt).
+
+### 🍎 Apple iOS (iPhone & iPad)
+- **Method 1 (Instant Home Screen App - No Mac / No Apple ID)**: Open [`margdarshak-ios-installer/Margdarshak-iOS-App.html`](./margdarshak-ios-installer/Margdarshak-iOS-App.html) in Safari, tap the Share icon `[↑]`, and tap **"Add to Home Screen"**.
+- **Method 2 (Apple WebClip Profile)**: Install [`margdarshak-ios-installer/Margdarshak-iOS-WebClip.mobileconfig`](./margdarshak-ios-installer/Margdarshak-iOS-WebClip.mobileconfig).
+- **Method 3 (Native .ipa package)**: Sideload [`margdarshak-ios-installer/Margdarshak.ipa`](./margdarshak-ios-installer/Margdarshak.ipa) via AltStore / Sideloadly or build via [`margdarshak-ios-xcode-project`](./margdarshak-ios-xcode-project/).
+- Full guide: [`margdarshak-ios-installer/INSTALL_ON_IOS.txt`](./margdarshak-ios-installer/INSTALL_ON_IOS.txt).
+
+### 🌐 Interactive Download Portal
+- Open [`download.html`](./download.html) in your browser or double-click [`start-download-portal.bat`](./start-download-portal.bat) to launch the responsive local Wi-Fi download server with QR code support.
+
+---
+
 ## 🚀 Quick Start & Local Preview
 
 Clone the repository and open `index.html` directly in any web browser, or run via Vite:

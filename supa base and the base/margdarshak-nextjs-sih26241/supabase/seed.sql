@@ -1,0 +1,11 @@
+-- ============================================================================
+-- MARGDARSHAK CURATED SEED DATASET (10 TRADES, SOURCES, OUTCOMES, PATHWAYS)
+-- Every seeded numeric record is explicitly marked is_illustrative = TRUE
+-- ============================================================================
+
+INSERT INTO public.sources (id, publisher, title, publication_date, reference_url, coverage, last_checked, limitations_en, limitations_hi, verification_status)
+VALUES
+('SRC-NCVET-NSQF', 'NCVET & MSDE', 'National Skills Qualifications Framework (NSQF) Qualification Register — Reference Structure', '2025-11-15', 'https://ncvet.gov.in', 'National (All States/UTs)', '2026-10-15', 'Qualification levels and progression steps reflect NSQF descriptors; local institute availability varies by district.', 'योग्यता स्तर और प्रगति चरण NSQF संरचना को दर्शाते हैं; स्थानीय संस्थानों की उपलब्धता जिले के अनुसार भिन्न होती है।', 'verified'),
+('SRC-NSDC-DEMO', 'NSDC / Skill India Demonstration Catalogue', 'Illustrative Sector Skill Council Outcome Dataset for SIH26241 Evaluation', '2026-08-01', 'https://skillindia.gov.in', 'Multi-State Sample (North, West, South, East, Central)', '2026-10-20', 'Demonstration figures for SIH26241 evaluation. Do not treat as official national census guarantees.', 'SIH26241 मूल्यांकन के लिए प्रदर्शन आंकड़े। इन्हें आधिकारिक राष्ट्रीय गारंटी न मानें।', 'illustrative'),
+('SRC-PMKVY-EST', 'MSDE / PMKVY 4.0 Monitoring Cell (Sample)', 'Regional Training Centre Placement & Stipend Tracking Summary', '2025-12-10', 'https://pmkvyofficial.org', 'Selected PMKVY 4.0 Clusters', '2026-09-30', 'Self-reported 6-month post-certification tracking from participating centres; rural informal earnings are underrepresented.', 'भागीदार केंद्रों से प्रमाणन के 6 महीने बाद की स्व-रिपोर्ट की गई ट्रैकिंग; ग्रामीण अनौपचारिक आय कम दर्ज है।', 'estimate'),
+('SRC-DGT-ITI', 'Directorate General of Training (DGT)', 'Craftsmen Training Scheme (CTS) Trade Syllabus & Apprenticeship Pathways', '2025-07-20', 'https://dgt.gov.in', 'National ITI Network', '2026-10-10', 'Covers course duration and NAPS apprenticeship eligibility; starting stipends depend on state minimum wage notifications.', 'कोर्स की अवधि और NAPS अप्रेंटिसशिप पात्रता शामिल है; शुरुआती स्टाइपेंड राज्य के न्यूनतम वेतन नियमों पर निर्भर करता है।', 'verified');

@@ -1,0 +1,10 @@
+{
+  "appId": "in.gov.msde.margdarshak",
+  "appName": "Margdarshak",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "ios": {
+    "contentInset": "automatic",
+    "backgroundColor": "#0F5C5C"
+  }
+}

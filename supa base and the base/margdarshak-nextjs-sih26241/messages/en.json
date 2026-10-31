@@ -1,0 +1,24 @@
+{
+  "app": {
+    "name": "Margdarshak",
+    "subtitle": "AI Career Counselling & Family Decision-Support Platform (SIH26241 • MSDE)",
+    "demoBanner": "Demonstration data, not official government figures. All sample numbers carry source & verification badges.",
+    "talkToCounsellor": "Request Counsellor Callback"
+  },
+  "nav": {
+    "home": "Overview",
+    "counselling": "Counselling & Joint Mode",
+    "trades": "Explore Trades",
+    "pathways": "NSQF Pathways",
+    "sources": "Source Registry",
+    "admin": "Admin Insights",
+    "mobileApp": "iOS / Android App"
+  },
+  "badges": {
+    "verified": "Verified Source",
+    "estimate": "Regional Estimate",
+    "illustrative": "Illustrative Demo Data",
+    "unavailable": "Data Unavailable",
+    "stale": "May Be Outdated"
+  }
+}

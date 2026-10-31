@@ -1,0 +1,12 @@
+====================================================================
+MARGDARSHAK (मार्गदर्शक) — ANDROID APK INSTALLATION GUIDE (SIH26241)
+====================================================================
+
+1. Extract this ZIP file on your Android smartphone (using the built-in
+   Files by Google / File Manager app) to get `margdarshak.apk`.
+2. Tap `margdarshak.apk` to launch the Android Package Installer.
+3. If prompted, enable "Allow from this source" (Install unknown apps).
+4. If Google Play Protect shows an "Unrecognized app developer" prompt
+   (because this APK is self-signed for SIH 2026 demonstration), tap
+   "More details" -> "Install anyway".
+5. Tap "Open" to launch Margdarshak natively on your smartphone!

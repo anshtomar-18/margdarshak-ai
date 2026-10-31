@@ -1,0 +1,24 @@
+# Android & Gradle
+.gradle/
+build/
+**/build/
+**/.gradle/
+*.iml
+.idea/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Node & Next.js
+node_modules/
+.next/
+out/
+.env*.local
+
+# System & Editor
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.vscode/

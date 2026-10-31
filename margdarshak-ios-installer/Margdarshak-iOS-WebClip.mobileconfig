@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>
+			iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAIAAACyr5FlAAADwklE
+			QVR42u3dMY7bMBAFUDapfcG9W+6YNAHSpEuTTWLYEufP8AG/N/n1
+			RGO9ErkeHx8in2apQOAQOAQOgUPgEDgEDoFD4BA4ROAQOAQOgUPg
+			EDgEDoFD4BA4ROAQOAQOgUPguDHfvn55J3DQwMpoHLeaOETJYoKS
+			4TjKTYxUsrBAZCCOcBYDiCwsEBmCoymLpkQWFoj0xjFMRhcfCwtE
+			WuIYLyPcxyKDj044jmKRTGSRwUcPHIfLSPOxyOAjHQcQgT4WGXzk
+			4oAg1sci4+eP73/L4T7WaTL+QeGZHOVjHSLj9+e+ieOoB5iH4/jz
+			c6/CUT6RsTgK27wcR/mMRuGoLfEmHAlTa4+jvLtbcQx7x24OjicH
+			sAFHwjT74Ujoaw+OnPn2wBHS1E4c3X30xvHCMDbjyJl4Lo6cdvbj
+			SGtgOI53RlKFI6qEIBxRpRTiaOejGY73B1OLI62NYhxp98okHHf7
+			WEctGwk4Gi0e6ygZITi6+OiB48IhheDILGcfjsybYx6O+3yso5aN
+			KBz5i0c6jstHFYUjtqV7ccTeEyNx3ORjHbVsBOJI7goOOPbiSP4e
+			DcQR2xgccHTDcd/fUJk4MktbRy0bs3Fc3hsccLTCceu/e2JxBFYH
+			BxxwwFGOo3z/jO6J8gEHHHDAAQcccMABBxxwkHGhDzjggAMOOOCA
+			Aw444IADDjjggAMOOPxC6hdSOOCAAw444IADDjjgOBOHp889fQ4H
+			HHDA4V1Z78rCAYf9OezPYWcfO/vAAccsHHYTtJsgHHDYwdgOxvY+
+			t/e5UxOcmuC8FeetJON4OKmp87LxcMabM97KcDycDtlWxsO5ss6V
+			rcTxcCJ1z2Xj4Sx7Z9kX44gqpRBHLxldcbxTTRWOnAbicNzRzmsF
+			7ccRMvHjcLxQ02YcIbNOxxHS1E4crWXsxnFfX89XtgdH+TTheKW4
+			DTjK59gVx93d/be+W3HUTm0Cjg0l/qPHm3AUzmgajj1tflro5Tiq
+			JgLH9eVehaNq/Efg2N/vJft/lIy56gJV4qjy8TyXhOEVXp1iHCE+
+			YlN7aepx8JEpIwUHH4EygnDwkSYjCwcfUTLicPARdS3icJzsI+1C
+			JOI4kEjmJcjFcY6P2P6jcZzgI7n8dByDieTX3gPHPB8tOm+DYwyR
+			Rm03w9GaSLueW+JoR6Rpw41xtCDSutv2OGKJDGh1CI4cJZPKnIbj
+			qAeA4Wj/jh0cp1g5qqvjcAgcAofAIXAIHAKHwCFwCBwicAgcAofA
+			IXAIHAKHwCFwCBwicAgcAofAIXBIbX4BmkivUZTmKzUAAAAASUVO
+			RK5CYII=
+			</data>
+			<key>IgnoreManifestScope</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Margdarshak</string>
+			<key>PayloadDescription</key>
+			<string>Installs Margdarshak (SIH26241 MSDE) AI Career Counselling Platform on your iPhone/iPad Home Screen</string>
+			<key>PayloadDisplayName</key>
+			<string>Margdarshak (मार्गदर्शक) iOS App</string>
+			<key>PayloadIdentifier</key>
+			<string>in.gov.msde.margdarshak.webclip</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>7A9C4821-88F4-4B29-9A11-262410000001</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://margdarshak-sih26241.vercel.app/</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Margdarshak (SIH26241 MSDE) — AI-Enabled Career Counselling &amp; Family Decision-Support Platform for iOS</string>
+	<key>PayloadDisplayName</key>
+	<string>Margdarshak (SIH26241 MSDE)</string>
+	<key>PayloadIdentifier</key>
+	<string>in.gov.msde.margdarshak.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Ministry of Skill Development &amp; Entrepreneurship (MSDE) • SIH26241</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7A9C4821-88F4-4B29-9A11-262410000002</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
