@@ -235,6 +235,8 @@ Start the Next.js development server:
 npm run dev
 # Visit http://localhost:3000
 ```
+- **Login / Register**: Accessible at `/login` or via the **Sign In** button in the top navigation bar.
+- **Supabase Authentication**: Supports Email & Password, Supabase Magic Links, 1-Click SIH Evaluation Demo Logins (Student, Parent, Admin), and Session Logout with role-based dashboard guards.
 
 ---
 
@@ -247,6 +249,7 @@ npm install
 npm run dev
 # Visit http://localhost:5173
 ```
+- **Supabase Live Auth**: Includes real-time Supabase Auth SDK (`@supabase/supabase-js`), Sign In / Sign Up modal, Magic Link OTP, instant 1-click jury evaluation accounts, custom Supabase project connection settings, and one-click session Logout.
 
 ---
 
